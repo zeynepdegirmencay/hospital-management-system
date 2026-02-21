@@ -14,3 +14,10 @@ This project is a simple hospital management system written in Python.
 ## Technologies
 Python
 OOP
+
+## Project Structure
+Main.py
+Personel.py
+Doktor.py
+Hemsire.py
+Hasta.py
