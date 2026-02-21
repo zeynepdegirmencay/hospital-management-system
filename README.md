@@ -1,23 +1,26 @@
-# hospital-management-system
-Simple hospital management system developed with Python using object oriented programming.
-
 # Hospital Management System
 
-This project is a simple hospital management system written in Python.
+This project is a simple hospital management system developed using Python and Object-Oriented Programming principles.
+
+## Structure
+
+The system includes multiple classes:
+
+- **Personel** (Base class)
+- **Doctor**
+- **Nurse**
+- **Patient**
+
+Doctor and Nurse classes inherit from the Personel class.
 
 ## Features
-- Manage doctors
-- Manage nurses
-- Manage patients
-- Personnel structure using object oriented programming
+
+- Personnel management
+- Object-oriented design
+- Class inheritance
+- Modular structure with multiple files
 
 ## Technologies
-Python
-OOP
 
-## Project Structure
-Main.py
-Personel.py
-Doktor.py
-Hemsire.py
-Hasta.py
+Python  
+Object-Oriented Programming
