@@ -24,3 +24,13 @@ Doctor and Nurse classes inherit from the Personel class.
 
 Python  
 Object-Oriented Programming
+
+## How to Run
+
+Install required library:
+
+pip install pandas
+
+Then run:
+
+python Main.py
