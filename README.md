@@ -25,6 +25,10 @@ Doctor and Nurse classes inherit from the Personel class.
 Python  
 Object-Oriented Programming
 
+## About
+
+This project was developed as part of a university course.
+
 ## How to Run
 
 Install required library:
